@@ -7,6 +7,10 @@ chatGPT-voice-output--20230801
 注意：
 目前该版本，我只在macos上试验成功。
 ![gptvoice image](https://github.com/shawokou123/gptvoice-pyttsx3/blob/main/gptvoice-pyttsx3.jpg)
+
+[!视频演示]
+(https://www.youtube.com/watch?v=j9E99N_zNUM)
+
 # Setup
 
 1. clone this repo
