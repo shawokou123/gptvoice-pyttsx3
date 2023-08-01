@@ -1,12 +1,8 @@
 *Take chatGPT into command line and Output the responses of ChatGPT in the form of voice*
-########################################
-#chatGPT-voice-output--20230801        #
-#将chatGP回复用语音输出By一个小兵          #
-#该版用pyttsx3直接进行文字转语音输出       #  
-#一个小兵 E-mail:shawokou123@gmail.com #
-######################################
-
-
+chatGPT-voice-output--20230801 
+#将chatGP回复用语音输出By一个小兵 
+#该版用pyttsx3直接进行文字转语音输出     
+#一个小兵 E-mail:shawokou123@gmail.com
 
 注意：
 目前该版本，我只在macos上试验成功。
