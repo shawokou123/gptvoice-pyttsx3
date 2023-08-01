@@ -5,6 +5,9 @@
 #该版用pyttsx3直接进行文字转语音输出       #  
 #一个小兵 E-mail:shawokou123@gmail.com #
 ######################################
+
+
+
 注意：
 目前该版本，我只在macos上试验成功。
 ![gptvoice image](https://github.com/shawokou123/gptvoice/blob/main/e488788effc60f707da358764.png)
